@@ -1,9 +1,9 @@
 # PA2 — ETP-T: a Reliable Transport over UDP
 
-**Team:** Maddison Barnwell Mbarnwell-ai CSC 5200
-Ainslee Davenport ARDavenport CSC 4200
+**Team:** Maddison Barnwell Mbarnwell-ai CSC 5200  
+Ainslee Davenport ARDavenport CSC 4200  
 **Language:** Python
-**Our profile:** _one-way delay 15 ms, bottleneck 3000 kbit/s
+**Our profile:** _one-way delay 15 ms, bottleneck 3000 kbit/s  
 **Submitted commit:** _the SHA you paste into Canvas_
 
 ## Build and run
