@@ -1,8 +1,9 @@
 # PA2 — ETP-T: a Reliable Transport over UDP
 
-**Team:** _each member's full name, GitHub username and course (CSC 4200 or 5200), one per line; a student working alone lists one_
-**Language:** _C or Python_
-**Our profile:** _one-way delay ___ ms, bottleneck ___ kbit/s — the repository owner's (from `etpt_relay.py --show-profile OWNER`)_
+**Team:** Maddison Barnwell Mbarnwell-ai CSC 5200
+Ainslee Davenport ARDavenport CSC 4200
+**Language:** Python
+**Our profile:** _one-way delay 15 ms, bottleneck 3000 kbit/s
 **Submitted commit:** _the SHA you paste into Canvas_
 
 ## Build and run
